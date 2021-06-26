@@ -1,0 +1,12 @@
+name: MiskSpawner
+version: FINAL
+main: com.misk.spawnerfix.SpawnerFix
+author: Novur
+
+permissions:
+  miskspawner.reload:
+    description: Permission to use reloadspawner command
+
+commands:
+  reloadspawner:
+    description: Reload MiskSpawner config

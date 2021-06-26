@@ -1,0 +1,15 @@
+#In minutes
+scanDelay: 20
+#Display reset message in console (for debugging)
+displayResetMessage: true
+
+locations:
+  loc1:
+    world: "world"
+    x: 0.0
+    y: 50.0
+    z: 0.0
+    entity: "COW"
+
+noPermission: '&4&lError! &cYou do not have permission to perform this command!'
+configReloaded: '&dMiskSpawner >> &aConfig reloaded.'
